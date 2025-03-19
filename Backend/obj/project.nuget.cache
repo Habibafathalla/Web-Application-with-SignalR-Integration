@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mP3Ulx4KNIzU1/lbMmA3rYjvDafJVUyxQZfnLT43JqIu67JVUXaGKFa+GCgp9RWDqctyqKk+K7ot7ANfiPdwNw==",
+  "dgSpecHash": "pOxej5vwehX44NiE5TVbMK4XGtj77OeOXkZjDEnKTSS27xXMlEO+cZlXhOrRc0ou2r1MzSsLU2STcVSC1GQh/w==",
   "success": true,
-  "projectFilePath": "D:\\Ramyro Task\\Ramyro-Task\\Backend\\Backend.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\New folder\\Web-Application-with-SignalR-Integration\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.3.0\\microsoft.aspnetcore.authorization.2.3.0.nupkg.sha512",

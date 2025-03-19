@@ -2467,11 +2467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ramyro Task\\Ramyro-Task\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\New folder\\Web-Application-with-SignalR-Integration\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "D:\\Ramyro Task\\Ramyro-Task\\Backend\\Backend.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Web-Application-with-SignalR-Integration\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Ramyro Task\\Ramyro-Task\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\New folder\\Web-Application-with-SignalR-Integration\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

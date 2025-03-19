@@ -1,0 +1,107 @@
+
+.app-container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom right, #f8fafc, #e2e8f0);
+    color: #334155;
+}
+  
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 400px;
+}
+  
+.card h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #1e293b;
+}
+
+.button {
+    width: 100%;
+    padding: 0.75rem;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    position: relative;
+}
+
+  
+.button:hover {
+    transform: scale(1.05);
+}
+  
+.button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+/* Blue button */
+.button-blue {
+    background: #3b82f6;
+}
+
+.button-blue:hover {
+    background: #1e40af;
+}
+  
+
+.button .spinner {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    border: 3px solid rgba(59, 130, 246, 0.3);
+    border-radius: 50%;
+    border-top-color: #fff;
+    animation: spin 1s linear infinite;
+    transition: opacity 0.2s ease-in-out;
+}
+
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+
+.progress {
+    margin-top: 1rem;
+    font-size: 1.1rem;
+}
+
+.data-box {
+    margin-top: 1.5rem;
+    background: white;
+    color: black;
+    padding: 1rem;
+    border-radius: 8px;
+    width: 100%;
+    text-align: left;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.scrollable-list {
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
